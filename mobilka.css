@@ -1,0 +1,173 @@
+@media screen and (max-width:500px){
+    .container{
+        width: 450px;
+        height: 5703px;
+        
+    }
+    .header{
+        width: 450px;
+        height: 550px;
+    }
+    .icon{
+        margin-top: 50px;
+        margin-left: 20px;
+    }
+    .row{
+        margin-left: 80px;
+    }
+    .menu1{
+        font-size: 90%;
+        margin-top: 5px;
+    }
+    .menu{
+        font-size: 90%;
+        margin-top: 5px;
+    }
+    .savat{
+        margin-left: 20px;
+        margin-top: 40px;
+    }
+    .joy{
+        margin-left: 40px;
+        margin-top: 40px;
+    }
+    .manzil{
+        margin-left: 130px;
+        margin-top: -25px;
+    }
+    .car{
+        margin-left: 110px;
+    }
+    .text{
+        margin-left: 150px;
+    }
+    .pit{
+        font-size: 20px;
+        margin-left: -100px;
+        margin-top: 50px;
+    }
+    .piza{
+        width: 60%;
+        height: 60%;
+        margin-left: 80px;
+        margin-top: 0px;
+    }
+    .matn{
+        margin-left: -100px;
+        font-size: 80%;
+    }
+    .get{
+        margin-left: -100px;
+        width: 30%;
+        height: 30%;
+        margin-top: -120px;
+    }
+    .star{
+        margin-top: -10px;
+        display: block;
+    }
+    .strelka{
+        width: 10%;
+        margin-left: 153px;
+        margin-top: -5px;
+    }
+    .strelka1{
+        width: 20%;
+        margin-left: 178px;
+        margin-top: 8px;
+    }
+    .no{
+        font-size: 100%;
+        margin-left: 177px;
+        margin-top: 5px;
+    }
+    .rub{
+        font-size: 120%;
+        margin-left: 177px;
+    }
+    .sumka{
+        margin-left: -100px;
+        margin-top: 120px;
+    }
+    .dos{
+        margin-left: -65px;
+    }
+    .soat{
+        margin-left: 30px;
+    }
+    .so{
+        margin-left: 30px;  
+    }
+    .aylana{
+        margin-left: 100px;
+    }
+    .men{
+        font-size: 200%;
+    }
+    .menu3{
+        font-size: 110%;
+        margin-left: -60px;
+    }
+    .menu2{
+        font-size: 110%;
+        margin-left: 20px;
+    }
+    #hamma{
+        display: inline;
+        margin-left: -100px;
+    }
+    .blok{
+        margin-left: 15px;
+        float: left;
+    }
+    .d1{
+        font-size: 100%;
+        margin-top: 2320px;
+    }
+    #text{
+        font-size: 110%;
+        margin-left: 5px;
+        margin-right: -10px;
+    }
+    .img{
+        width: 95%;
+        height: 5%;
+        margin-left: 10px;
+        margin-top: 50px;
+    }
+    #row1{
+        width: 450px;
+        height: 1150px;
+    }
+    .dostavka{
+        margin-left: 80px;
+    }
+    .block{
+        float: none;
+        margin-left: 820px;
+        margin-top: 20px;
+    }
+    #obshi{
+        margin-top: 50px;
+    }
+    iframe{
+        width: 450px;
+    }
+    .ramka{
+        margin-left: 0px;
+        margin-top: -5px;
+        width: 450px;
+    }
+    .j1{
+        margin-left: -50px;
+    }
+    .o{
+        margin-left: 140px;
+    }
+    #n{
+        margin-left: 60px;
+    }
+    .po{
+        margin-left: 80px;
+    }
+}

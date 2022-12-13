@@ -1,0 +1,367 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    width: 1350px;
+    height: 3922px;
+    border: 1px solid black;
+    margin: 0 auto;
+    margin-bottom: 50px;
+}
+.header{
+    width: 1350px;
+    height: 600px;
+    background-image: url("rasm/image 1.jpg");
+}
+.icon{
+    width: 30px;
+    margin-left: 100px;
+    margin-top: 40px;
+}
+li{
+    list-style: none;
+}
+.menu{
+    color: white;
+    margin-left: 50px;
+    font-size: 20px;
+}
+.menu1{
+    color: orange;
+    font-size: 20px;
+}
+.row{
+    display: flex;
+    margin-left: 400px;
+    margin-top: -30px;
+}
+.savat{
+    width: 30px;
+    margin-left: 875px;
+    margin-top: -30px;
+    float: left;
+}
+.joy{
+    width: 40px;
+    margin-left: 950px;
+    margin-top: -30px;
+    float: left;
+}
+.manzil{
+    font-size: 15px;
+    color: white;
+    margin-left: 990px;
+    margin-top: -28px;
+    float: left;
+}
+.car{
+    width: 30px;
+    margin-left: 120px;
+    margin-top: -25px;
+    float: left;
+}
+.text{
+    margin-left: 160px;
+    font-size: 15px;
+    margin-top: -20px;
+    float: left;
+}
+.clear{
+    clear: both;
+}
+.pit{
+    font-size: 38px;
+    margin-top: 130px;
+    margin-left: -830px;
+    font-weight: bold;
+}
+.matn{
+    font-size: 16px;
+    margin-left: -830px;
+    margin-top: 15px;
+}
+.piza{
+    margin-left: -320px;
+    margin-top: -170px;
+}
+.strelka{
+    width: 90px;
+   margin-left: -119px;
+    border-top: 3px solid #E85F0F;
+    transform: rotate(46.66deg);
+}
+.strelka1{
+    width: 180px;
+   margin-left: -47px;
+    border-top: 3px solid #E85F0F;
+    margin-top: 29px;
+}
+.rub{
+    color: #E85F0F;
+    font-size: 28px;
+    margin-left: -38px;
+}
+.no{
+    font-size: 40px;
+    margin-left: -48px;
+}
+.star{
+	
+	
+	text-decoration: none;
+	color: black;
+	font-size: 18px;
+    margin-top: 50px;
+	font-family: "Montserrat";
+}
+.get{
+	margin-left: -840px;
+	margin-top: -160px;
+	text-align: center;
+	width: 160px;
+	height: 50px;
+	border-radius: 45px;
+	background-color: #E79912;
+}
+.sumka{
+    width: 23px;
+    margin-left: -840px;
+    margin-top: 90px;
+}
+.dos{
+    font-size: 18px;
+    margin-left: -805px;
+    text-decoration: none;
+    color: white;
+    margin-top: -23px;
+}
+.soat{
+    width: 23px;
+    margin-left: -700px;
+    margin-top:-20px;
+    float: left;
+}
+.so{
+    margin-left: -660px;
+    font-size: 18px;
+    color: white;
+    margin-top: -20px;
+}
+.aylana{
+    margin-left: -550px;
+    font-size: 18px;
+    width: 23px;
+    margin-top: -20px;
+    float: left;
+}
+.pos{
+    font-size: 18px;
+    margin-left: -515px;
+    text-decoration: none;
+    color: white;
+    margin-top: -20px;
+}
+.men{
+    font-size: 70px;
+    text-align: center;
+    margin-top: 80px;
+}
+.row2{
+    display: flex;
+    margin-top: 50px;
+    margin-left: 100px;
+}
+.menu3{
+    color: #E79912;
+    font-size: 27px;
+    text-decoration-color:#E79912 ;
+}
+.menu2{
+    color: black;
+    opacity: .5;
+    font-size: 27px;
+    text-decoration: none;
+    margin-left: 60px;
+}
+.blok{
+    width: 200px;
+    height: 380px;
+    box-shadow: 14.3938px 14.3938px 12.9544px rgba(0, 0, 0, 0.25);
+    border-radius: 50px;
+    
+    margin-top: 70px;
+    margin-left: 55px;
+}
+.pitsa{
+    width: 150px;
+    height: 150px;
+    margin-left:20px ;
+    margin-top: -20px;
+}
+#pizza{
+    font-size: 25px;
+    font-weight: bold;
+    margin-left: 30px;
+    margin-top: 20px;
+}
+#f{
+    margin-left: 60px;
+    margin-top: 20px;
+}
+.rubl{
+    color: #E85F0F;
+    font-size: 20px;
+    margin-left: -30px;
+
+}
+#num{
+    width: 50px;
+    height: 15px;
+    border: 1px solid black;
+    border-radius: 10px;
+    text-align: center;
+    margin-left: 100px;
+    margin-top: -20px;
+}
+.num{
+    font-size: 14px;
+}
+.kor{
+    width: 150px;
+    height: 45px;
+    border-radius: 23px;
+    background-color: #E85F0C;
+    margin-top: 30px;
+    margin-left: 30px;
+    float: left;
+}
+.v{
+    text-decoration: none;
+    color: white;
+    font-size: 18px;
+    margin-top: 13px;
+    margin-left: 35px;
+    float: left;
+}
+.foiz{
+    width: 45px;
+    margin-left: 165px;
+    border-radius: 20px;
+}
+#hamma{
+    display: flex;
+}
+.d{
+    margin-top: 150px;
+}
+#text{
+    font-size: 22px;
+    margin-left: 130px;
+    margin-top: 50px;
+}
+.img{
+    width: 1080px;
+    height: 440px;
+    margin-left: 150px;
+    margin-top: 120px;
+}
+#row1{
+    margin-top: 100px;
+    background-image: url("rasm/fon1.jpg");
+    width: 1350px;
+    height: 700px;
+}
+.dostavka{
+    color: white;
+    font-size: 70px;
+    font-weight: bold;
+    margin-left: 520px;
+    margin-top: 80px;
+    float: left;
+}
+.block{
+    width: 350px;
+    height: 230px;
+    border-radius: 55px;
+    background-color: white;
+    margin-left: 50px;
+    float: left;
+    
+}
+#obshi{
+    margin-top: 250px;
+    margin-left: -770px;
+    float: left;
+}
+.vaqt{
+    width: 70px;
+    margin-left: 140px;
+    margin-top: 20px;
+}
+.matn3{
+    font-size: 34px;
+    margin-left: 80px;
+    margin-top: 10px;
+}
+#s{
+    margin-top: 15px;
+    margin-left: 40px;
+}
+.matn4{
+    font-size: 34px;
+   margin-left: 30px;
+    margin-top: 10px;
+}
+#s1{
+    margin-top: 15px;
+    margin-left: 60px; 
+}
+.ramka{
+    width: 552px;
+    height: 350px;
+    background-color: #E85F0F;
+    margin-left: 800px;
+    margin-top: -352px;
+}
+.joy2{
+    width: 25px;
+    margin-left: 100px;
+    margin-top: 50px;
+}
+.text6{
+    font-size: 30px;
+    color: white;
+    margin-left: 140px;
+    margin-top: -35px;
+}
+.j{
+    font-size: 25px;
+    color: white;
+    margin-left: 140px;
+}
+.text7{
+    font-size: 30px;
+    color: white;
+    margin-left: 140px;
+    margin-top: 30px;
+}
+.tel{
+    font-size: 25px;
+    color: white;
+    margin-left: 140px;
+}
+.o{
+    font-size: 25px;
+    color: white;
+    margin-left: 120px;
+    margin-top: 20px;
+}
+.po{
+    margin-top: 20px;
+    width: 40px;
+    margin-left: 50px;
+}
+#n{
+    margin-left: 110px;
+}
